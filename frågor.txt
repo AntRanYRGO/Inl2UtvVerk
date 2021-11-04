@@ -15,3 +15,6 @@ När använder man log respektive status?
 Hur kan man formulera sig i sina commit-meddelanden?
         Formuleringen ska vara kort och beskriva vad man gjort i presens. ex: adding main method
 	
+
+Jag hade velat sikta på VG men har missat för mycket pga sjukdom, finns kommer det finnas möjlighet
+att komplettera ifall det skulle behövas? Har inte tid att läsa på det som behövs och hinna lämna in i tid.
