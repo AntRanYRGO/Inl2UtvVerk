@@ -1,0 +1,17 @@
+När använder man add respektive commit?
+        Add används för att lägga till en eller flera filer till nästa commit
+        Commit används för att lägga till (commita) de nya ändringarna i dina filer
+        Kortfattat använder man add och commit när man gjort något och vill spara det
+
+Vad är pull respektive push?
+        Pull är ett kommando för att ladda ner nya versioner från ditt git repo
+        Push är ett kommando för att ladda upp till ditt git repo (i detta fallet på github)
+
+När använder man log respektive status?
+        Log används för att se en logg över de commits som gjorts samt när de gjorts
+        Status visar dig vilket branch du är samt om du har något att commita
+        eller om det finns filer som inte är addade ännu. Ger bra överskådelse när man arbetar.
+
+Hur kan man formulera sig i sina commit-meddelanden?
+        Formuleringen ska vara kort och beskriva vad man gjort i presens. ex: adding main method
+	
